@@ -1,43 +1,42 @@
 /* styles.css */
 
-/* Estilo básico para el cuerpo del documento */
 body {
-    font-family: Arial, sans-serif; /* Fuente por defecto */
-    line-height: 1.6; /* Altura de línea para mejor legibilidad */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #333; /* Color del texto */
-    background-color: #f4f4f4; /* Color de fondo de la página */
+    color: #333; 
+    background-color: #f4f4f4;
 }
 
-/* Estilo para el encabezado */
+
 header {
-    background: #333; /* Color de fondo del encabezado */
-    color: #fff; /* Color del texto en el encabezado */
-    padding: 1em 0; /* Espaciado interno del encabezado */
-    text-align: center; /* Centrar el texto */
+    background: #333; 
+    color: #fff; 
+    padding: 1em 0; 
+    text-align: center; 
 }
 
 header h1 {
-    margin: 0; /* Eliminar el margen del título */
+    margin: 0;
 }
 
-/* Estilo para la navegación */
+
 nav ul {
-    list-style: none; /* Eliminar los puntos de la lista */
+    list-style: none; 
     padding: 0;
 }
 
 nav ul li {
-    display: inline; /* Mostrar los elementos en línea */
-    margin: 0 10px; /* Espaciado entre los elementos de la lista */
+    display: inline; 
+    margin: 0 10px; 
 }
 
 nav ul li a {
-    color: #fff; /* Color del texto de los enlaces */
-    text-decoration: none; /* Eliminar el subrayado de los enlaces */
+    color: #fff; 
+    text-decoration: none; 
 }
 
-/* Estilo para el contenido principal */
+
 main {
     padding: 20px; 
